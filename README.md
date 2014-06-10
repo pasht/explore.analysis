@@ -108,4 +108,4 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 4
 
-![plot of figure-2](https://github.com/pasht/explore.analysis/blob/master/figures/plot4.png)
+![plot of figure-4](https://github.com/pasht/explore.analysis/blob/master/figures/plot4.png)
