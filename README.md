@@ -103,9 +103,9 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 3
 
-![plot of figure-3](https://github.com/pasht/explore.analysis/blob/master/figures/plot1.png)
+![plot of figure-3](https://github.com/pasht/explore.analysis/blob/master/figures/plot3.png)
 
 
 ### Plot 4
 
-![plot of figure-2](https://github.com/pasht/explore.analysis/blob/master/figures/plot1.png)
+![plot of figure-2](https://github.com/pasht/explore.analysis/blob/master/figures/plot4.png)
